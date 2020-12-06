@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
+    BOT_TOKEN = "cf0e05d9-4eca-4948-a012-b91fe9704bab"
+    APP_ID = "a6e98151-f242-4592-b107-25fbac5ab410 "
     API_HASH = ""
-    DATABASE_URL = ""
+    DATABASE_URL = "https://github.com/viperadnan-git/google-drive-telegram-bot/edit/main/bot/config.py"
     SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "https://github.com/viperadnan-git/google-drive-telegram-bot/edit/main/bot/config.py"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
